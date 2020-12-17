@@ -24,9 +24,13 @@ int main(void)
    int a = 1;
    do 
    {     
-      if(a%3 == 0)
+      if((a%3 == 0) && (a%5 == 0))
       {
-         std::cout << "Foo" << std::endl;
+         std::cout << "FooBaa" << std::endl;
+      }
+      else if(a%3 == 0)
+      {
+         std::cout << "Baa" << std::endl;
       }
       else if(a%5 == 0)
       {

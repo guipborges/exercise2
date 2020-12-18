@@ -10,13 +10,13 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/guipborges/exercicio2.git
+git clone hhttps://github.com/guipborges/exercise2.git
 ```
 
 Entre na pasta do projeto:  
 
 ```
-cd exercicio2
+cd exercise2
 ```
 
 Compile:

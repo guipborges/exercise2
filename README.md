@@ -1,4 +1,4 @@
-# exercise - 2
+# Exercício - 2
 
 ## Múltiplos
 
